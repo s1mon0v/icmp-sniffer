@@ -64,3 +64,11 @@ On the attacker's machine, use the **icmp_sniffer.py** to listen for the incomin
 sudo python3 icmp_sniffer.py
 ```
 You will see the contents of the file printed on your terminal as it is exfiltrated.
+
+## License
+
+icmp-sniffer is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+This tool is intended for educational and testing purposes only. It should not be used for any malicious activities.
